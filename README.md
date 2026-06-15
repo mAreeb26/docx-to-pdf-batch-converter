@@ -19,7 +19,7 @@ A simple Python utility that converts `.docx` files to PDF in the directory wher
 ## Usage
 - place `d2p.py` and `d2p.bat` in the folder containing the files you want to convert
 - double click the `.bat` file
-- if you have exclusions enter the names of the files without the `.docx` extension seperated by commas
+- if you have exclusions enter the names of the files without the `.docx` extension separated by commas
 - if you need to convert everything just hit the `enter button on your keyboard
 
 
