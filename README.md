@@ -1,10 +1,11 @@
 # DOCX to PDF Converter
 
-A simple Python utility that converts `.docx` files to PDF in the directory where the script is located.(instructions given for Windows users only)
+A simple Python utility that converts `.docx` files in the directory where the script is located to `.pdf` (instructions given for Windows users only)
 
 ## Features
-- convert all `.docx` files in the directory where the script is located to pdf in one go
+- convert all `.docx` files in the directory where the script is located to `.pdf` in one go
 - exclude specific files from conversion
+- select a path of your choice for the conversions(default is the same directory as `.docx` files)
 - includes a windows batch file for easy execution
 
 ## Requirements
@@ -21,5 +22,6 @@ A simple Python utility that converts `.docx` files to PDF in the directory wher
 - double click the `.bat` file
 - if you have exclusions enter the names of the files without the `.docx` extension separated by commas
 - if you need to convert everything just hit the `enter` button on your keyboard
+- if you want to have the converted files in another directory other than where the `.docx` files are located enetr it, if not just hit the `enter` button on your keyboard 
 
 
