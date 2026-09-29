@@ -18,10 +18,8 @@ A simple Python utility that converts `.docx` files in the directory where the s
 - to install docx2pdf just open the terminal and run ```pip install docx2pdf```
 
 ## Usage
-- place `d2p.py` and `d2p.bat` in the folder containing the files you want to convert
+- place `d2p.py` and `d2p.bat` anywhere you prefer, but placing them in the folder you normally save the `.docx` files you want to convert makes it easier 
 - double click the `.bat` file
-- if you have exclusions enter the names of the files without the `.docx` extension separated by commas
-- if you need to convert everything just hit the `enter` button on your keyboard
-- if you want to have the converted files in another directory other than where the `.docx` files are located enetr it, if not just hit the `enter` button on your keyboard 
+
 
 
